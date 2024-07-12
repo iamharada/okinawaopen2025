@@ -1,2 +1,2 @@
 # okinawaopen2025
-<lacrosse.okinawa>
+<https://lacrosse.okinawa>
